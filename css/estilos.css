@@ -4,20 +4,25 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-size: 36px;
     margin: 0;
-    padding: 0;
+    padding: 0; 
 
 }
 
-#container{
+#cabecera{
 
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDD;
-    margin: 0 auto;
+    background: #33A;
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
 
+#cabecera #tagline{
+    margin: 0,0,0, 1em;
+    font-weight: normal;
 }
 
 #container h1{
     font-size: 20px;
-}
+} 
