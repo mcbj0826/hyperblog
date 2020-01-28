@@ -4,3 +4,5 @@ Un blog increible para el curso de git y github de platzi
 
  * Niñita 
    En este curso vemos de todo. 
+
+   creado por el increible platzi team.
